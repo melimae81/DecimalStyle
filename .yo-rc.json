@@ -1,0 +1,11 @@
+{
+  "generator-mendix": {
+    "promptValues": {
+      "copyright": "Mendix",
+      "license": "MIT",
+      "author": "Melinda Rodriguez",
+      "boilerplate": "empty",
+      "widgetoptions": []
+    }
+  }
+}
